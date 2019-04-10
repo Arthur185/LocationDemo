@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
                 LocationUtils.start(v.getContext(), new LocationUtils.onLocationListener() {
                     @Override
                     public void getData(AMapLocation aMapLocation) {
-                        textView.setText(aMapLocation.getCity()+aMapLocation.getLocationDetail());
+                        textView.setText(aMapLocation.getCity());
                     }
                 });
             }
