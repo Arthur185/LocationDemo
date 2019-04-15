@@ -1,5 +1,5 @@
 ### LocationDemo [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu/)
-基于高德地图定位api进行封装 可应用到组件化开发
+基于高德地图定位api进行封装 可应用到组件化开发，此demo未配置安卓6.0以上动态访问权限，安卓6.0以上系统手机试用时请自行前往设置打开定位权限。
 
 [高德地图安卓开发文档](https://lbs.amap.com/api/android-location-sdk/locationsummary/)
 
